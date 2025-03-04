@@ -5,7 +5,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 This project is part of the Codebasics resume project [challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge).
 
 Please check the - 
--  Live Report
+-  Live [Report](https://project.novypro.com/T4QlbO)
 -  Video [Presentation](https://www.loom.com/share/9151008d2af04b9b9cf86112113e1059?sid=ea44697a-0556-4e0a-89a8-23e451f93aa2)
 
 ### Key Business Metrics 
